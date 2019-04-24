@@ -9,8 +9,10 @@ Foi e é bem útil, espero poder ajuda-los de alguma forma.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Nome da Pessoa: É o nome que será falado na ligação.
-Telefone: O número que será usado para a ligação, formato: 
-(XX)91234-5678/(XX)1234-5678 (Ligações Brasileiras)
+
+Telefone: O número que será usado para a ligação
+
+Formato: (XX)91234-5678/(XX)1234-5678 (Ligações Brasileiras)
 
 Voz: voz que será usada na ligação. Opções: br-Vitoria, br-Ricardo.
 
